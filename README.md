@@ -1,5 +1,3 @@
-# Journals
-
 # Python
 
 # Javascript
