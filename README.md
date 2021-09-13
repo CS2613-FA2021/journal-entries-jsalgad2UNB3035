@@ -1,7 +1,9 @@
-# [Python](https://github.com/CS2613-FA2021/journal-entries-jsalgad2UNB3035/wiki/Python)
+# Quick Links
 
-# Javascript
+## [Python](https://github.com/CS2613-FA2021/journal-entries-jsalgad2UNB3035/wiki/Python)
 
-# Racket
+## Javascript
 
-# Matlab/Octave
+## Racket
+
+## Matlab/Octave
